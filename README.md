@@ -1,6 +1,6 @@
 # Simulador de Projeção Financeira Interativo
 
-Uma aplicação web interativa construída com Streamlit para simular projeções financeiras. Permite aos usuários visualizar o crescimento de seus investimentos ao longo do tempo, considerando diferentes cenários de rentabilidade (pessimista, base e otimista) e acompanhar o progresso em direção a uma meta financeira.
+Uma aplicação web interativa construída com o framework [Streamlit](https://streamlit.io/) para simular projeções financeiras. Permite aos usuários visualizar o crescimento de seus investimentos ao longo do tempo, considerando diferentes cenários de rentabilidade (pessimista, base e otimista) e acompanhar o progresso em direção a uma meta financeira.
 
 ## Funcionalidades Principais
 
